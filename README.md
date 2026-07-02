@@ -37,8 +37,3 @@ The stacked LSTM was evaluated against a standard statistical baseline, GARCH(1,
 | **MAE** | 0.00294 | 0.00090 |
 | **R-Squared** | 0.6421 | 0.9511 |
 
-### How to Run
-
-* Clone the repository to your local machine.
-* Run `pip install -r requirements.txt` to install all necessary dependencies and recreate the environment.
-* Run the Jupyter Notebook to step through the data processing and model evaluation.
