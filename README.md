@@ -39,6 +39,7 @@ The stacked LSTM was evaluated against a standard statistical baseline, GARCH(1,
 
 ### How to Run
 
+* Before running the notebook, please download the HistoricalQuotes.csv file from the link in the Data Source section and place it in the data/ folder.
 * Clone the repository to your local machine.
 * Run `pip install -r requirements.txt` to install all necessary dependencies and recreate the environment.
 * Run the Colab Notebook to step through the data processing and model evaluation.
